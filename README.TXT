@@ -1,1 +1,1 @@
-https://chungntcc.github.io/chungasm3html-2/
+https://chungntcc.github.io/ASM3.2/
